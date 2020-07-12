@@ -13,7 +13,7 @@ black colored car isn't associated with any kind of people for me. Ironically th
 because of the very discussion about those words. Now everytime I'm confronted with them, I'll have to think
 about the debate that is surrounding them, and hence I'll indirectly be forced to think about race relations.
 
-Yet, as I followed the discussions surrounding the possible offense that could be taken by the words whitelist and blacklist,
+Yet, as I followed the discussion surrounding the possible offense that could be taken by the words whitelist and blacklist,
 two things became clear to me:
 
 1) If people are offended by a term, and there's an equally good alternative term, then it will just be a distraction from the quality of my code and projects, when I keep using the term that is considered offensive to some, even if I meant no harm by using it.
