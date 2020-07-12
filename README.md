@@ -43,7 +43,7 @@ Starting with the terms whitelist/blacklist:
 Some of the first suggestions I came across were allowlist/denylist, perfect examples for words that make technical sense,
 yet they're less than beautiful linguistically. Can you imagine a word like allowlist or denylist in musical lyrics?
 Or in daily natural conversations?
-"We put that on the denylist." That sentence can certainly be understood, but it feels like the constructed unnatural word that it is!
+"We put that on the denylist." That sentence can certainly be understood, but denylist feels like the constructed unnatural word that it is!
 
 My suggestion:
 
