@@ -8,7 +8,7 @@ There's an ongoing debate, if those changes are really necessary in all cases, b
 direction where you're getting perceived as insensitive when you insist on continued use of words such as blacklist.
 
 On a personal note, I never used to think about white people when encountering the term whitelist,
-nor did I think of any kind of people when I used the term blacklist. The same way a white or
+nor did I think of any kind of people when hearing the term blacklist. The same way a white or
 black colored car isn't associated with any kind of people for me. Ironically this has changed recently,
 because of the very discussion about those words. Now everytime I'm confronted with them, I'll have to think
 about the debate that is surrounding them, and hence I'll indirectly be thinking about people relationships.
