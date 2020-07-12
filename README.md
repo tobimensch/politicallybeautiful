@@ -31,7 +31,7 @@ it's not just about making technical sense, it's also about sounding right and i
 One definitely inoffensive example of this is the expression being blue or having the blues. If someone is blue, that's a synonym for saying they are sad, melancholic or depressed.
 But the word blue is clearly much more beautiful than the word sad is. Let's imagine for the sake of argument that the word blue was becoming politically incorrect for some reason,
 and that in that context the music genre blues would have to be renamed. It just wouldn't have the same feel to it, no matter which alternative you'd be choosing.
-Would you call it "the sads"? An alternative would sooner or later definitely emerge, but the point is that the sound and feel of a word isn't as easily replaceable as some would have us believe.
+Would you want to call it "the sads"? An alternative would sooner or later definitely emerge, but the point is that the sound and feel of a word isn't as easily replaceable as some would have us believe.
 
 The price of being politically correct shouldn't be to neuter language to the point of creating an Orwellian language, where everything that
 was formerly described as horrific henceforth gets described as double plus ungood.
