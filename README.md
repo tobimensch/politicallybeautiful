@@ -24,7 +24,7 @@ Number 3) is driving me to create this repository and to make my own suggestions
 
 To me black is one of the coolest sounding words in the English language, and white is also a better sounding than your average word,
 and I strongly believe that the beauty of sounds factors strongly into the development of human language, slang and technical terms,
-it's not just about making technical sense, it's also about sounding right and the best case beautiful.
+it's not just about making technical sense, it's also about sounding right and in the best case cool or beautiful.
 
 One definitely inoffensive example of this is the expression being blue or having the blues. If someone is blue, that's a synonym for saying they are sad, melancholic or depressed.
 But the word blue is clearly much more beautiful than the word sad is. Let's imagine for a the sake of the argument that the word blue would become politically incorrect for some reason,
