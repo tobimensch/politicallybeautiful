@@ -45,12 +45,11 @@ Or in daily natural conversations?
 
 My suggestion:
 
-Replace whitelist with greenlist. There's the expression to greenlight something/somebody, which essentially mean to allow somebody
-or something to go forward. So greenlist is in line with existing English phrases and green is also universally used as a color indicating
-that things are going good.
+Replace whitelist with greenlist. There's the expression to greenlight something/somebody, which means to allow somebody
+or something to go forward. So the word greenlist is in line with existing English phrases and green is also universally used as a color indicating that things are going well.
 
 It was more difficult to find a good sounding replacement for blacklist, not in the least because black is one of the coolest
-sounding words in the English language, so any replacement has to be worse almost by definition.
+sounding words in the English language, so any replacement has to be worse (in the sense that it sounds neutered) almost by definition.
 
 Here's a list of possibly good sounding replacements:
 - blocklist
