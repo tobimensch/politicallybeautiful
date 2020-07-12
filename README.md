@@ -45,7 +45,7 @@ yet they're less than beautiful linguistically. Can you imagine a word like allo
 Or in daily natural conversations?
 "We put that on the denylist." That sentence can certainly be understood, but denylist feels like the constructed unnatural word that it is!
 
-My suggestion:
+My proposals:
 
 Replace whitelist with greenlist. There's the expression to greenlight something/somebody, which means to allow somebody
 or something to go forward. So the word greenlist is in line with existing English phrases and green is also universally used as a color indicating that things are going well.
