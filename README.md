@@ -61,7 +61,7 @@ Here's a list of replacements I don't like for some reason:
 Blocklist is very close to blacklist, and also has the meaning of to block something in it, so this seems like a good fit, however
 I don't quite like it too much, because it doesn't make a very appealing pair with greenlist for an inexplicable reason.
 
-To dodge means to make a movement to avoid something. This is an apt description of what a blacklist helps to accomplish,
-and I think it sounds better than redlist. Personally I like it better than blocklist, too.
+To dodge means to make a movement to avoid something. This is an apt description of what such a list helps to accomplish,
+and I think it has a better sound to it than redlist. Rings better to my ears than blocklist as well.
 Though both are better than denylist or rejectlist that were floating around as possible replacements.
 
