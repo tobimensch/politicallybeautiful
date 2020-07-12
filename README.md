@@ -18,7 +18,7 @@ two things became clear to me:
 
 1) If people are offended by a term, and there's an equally good alternative term, then it will just be a distraction from the quality of my code and projects, when I keep using the term that is considered offensive to some, even if I meant no harm by using it.
 2) When I don't take part in the formulation of alternative terms, others will decide them for me.
-3) Some of the suggested alternatives up to this point have a inferior ring to them compared to the words they are replacing.
+3) Some of the suggested alternatives up to this point have an inferior ring to them compared to the words they are replacing.
 
 Number 3) is driving me to create this repository and to make my own suggestions for better replacements for words that have fallen out of favor.
 
