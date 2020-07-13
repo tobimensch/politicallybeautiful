@@ -47,14 +47,13 @@ was formerly described as horrific henceforth gets described as double plus ungo
 
 So in this repository I want to collect and rate alternatives for those words that are falling out of favor.
 
+## My proposals
 Starting with the terms whitelist/blacklist:
 
 Some of the first suggestions I came across were allowlist/denylist, perfect examples for words that make technical sense,
 yet they're less than beautiful linguistically. Can you imagine a word like allowlist or denylist in musical lyrics?
 Or in daily natural conversations?
 "We put that on the denylist." That sentence can certainly be understood, but denylist feels like the constructed unnatural word that it is!
-
-## My proposals
 
 Replace whitelist with greenlist. There's the expression to greenlight something/somebody, which means to allow somebody
 or something to go forward. So the word greenlist is in line with existing English phrases and green is also universally used as a color indicating that things are going well.
