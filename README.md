@@ -5,6 +5,7 @@ My point is that in a climate where language has to get preemptively sensitive f
 it'd be better to coin words that have a well rounded sound that befits the English language,
 instead of choosing words merely for their technical and logical soundness.
 
+## Debate in the Linux community (and worldwide)
 On July 11th new guidelines for a more inclusive language were merged into Linus Torvald's kernel tree.
 https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.8-Inclusive-Terminology
 
@@ -20,6 +21,7 @@ black colored car isn't associated with any kind of people for me. Ironically th
 because of the very discussion about those words. Now everytime I'm confronted with them, I'll have to think
 about the debate that is surrounding them, and hence I'll indirectly be forced to think about ethnic relations.
 
+## My conclusions
 Yet, as I followed the discussion surrounding the possible offense that could be taken by the words whitelist and blacklist,
 two things became clear to me:
 
@@ -52,7 +54,7 @@ yet they're less than beautiful linguistically. Can you imagine a word like allo
 Or in daily natural conversations?
 "We put that on the denylist." That sentence can certainly be understood, but denylist feels like the constructed unnatural word that it is!
 
-My proposals:
+## My proposals
 
 Replace whitelist with greenlist. There's the expression to greenlight something/somebody, which means to allow somebody
 or something to go forward. So the word greenlist is in line with existing English phrases and green is also universally used as a color indicating that things are going well.
