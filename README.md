@@ -1,3 +1,10 @@
+DISCLAIMER:
+If you don't agree with the reasons for switching out technical terms that I laid out here,
+I'm not judging your decisions and I would prefer if politics played no role in programming in the first place.
+My point is that in a climate where language has to get preemptively sensitive for whatever reason,
+it'd be better to coin words that have a well rounded sound that befits the English language,
+instead of choosing words merely for their technical and logical soundness.
+
 On July 11th new guidelines for a more inclusive language were merged into Linus Torvald's kernel tree.
 https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.8-Inclusive-Terminology
 
