@@ -96,7 +96,7 @@ Here are my suggestions for master and slave replacements:
 
 Personally, I think that master/worker is a good replacements, as both words make sense in some technological contexts, and they don't sound like neutered language. I think the word worker is actually a more descriptive and better term, than what it is replacing.
 
-If master really needs to be replaced, I think in the workgiver:worktaker context, leader and boss sound nice, but I can also see director, head and root making sense. For example, the root as the origin from where worker (ie. threads) are started.
+If master really needs to be replaced, I think in the workgiver:worktaker context, leader and boss sound nice, but I can also see director, head and root making sense. For example, the root as the origin from where worker threads are started.
 
 There're other contexts where the word master isn't **at all** in relationship to something questionable, ie. in the master/branch context. It was difficult for me to understand, while following the debate, how some people might get offended by a branch being called the master branch. This is what was done in git from the beginning, and now GitHub is going to change the name from master to main. Some claim that main is better than master anyway. But that depends, if you really use the master branch as your main branch or not. Because you don't have to. It simply the first branch that gets created by the software, and all other branches follow it.
 
