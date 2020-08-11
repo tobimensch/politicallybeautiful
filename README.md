@@ -19,7 +19,8 @@ On a personal note, I never used to think about any kind of people when encounte
 nor did I make an association to any kind of people while hearing or reading the term blacklist. The same way a white or
 black colored car isn't associated with any kind of people for me. Ironically this has changed recently,
 because of the very discussion about those words. Now everytime I'm confronted with them, I'll have to think
-about the debate that is surrounding them, and hence I'll indirectly be forced to think about ethnic relations.
+about the debate that is surrounding them, and hence I'll indirectly be forced to think about ethnic relations,
+which is an odd thing to happen, when you're working in order to solve purely technical problems.
 
 ## My conclusions
 Yet, as I followed the discussion surrounding the possible offense that could be taken by the words whitelist and blacklist,
