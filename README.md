@@ -33,7 +33,7 @@ Number 3) is driving me to create this repository and to make my own suggestions
 
 I'm accepting pull requests for more suggestions, this repository isn't just for my personal thoughts on the matter.
 
-To me black is one of the coolest sounding words in the English language, and white is also a better sounding than your average word,
+To me black is one of the coolest sounding words in the English language, and white is also better sounding than your average word,
 and I strongly believe that the beauty of sounds factors strongly into the development of human language, slang and technical terms,
 it's not just about making technical sense, it's also about sounding right and in the best case cool or beautiful.
 
