@@ -64,6 +64,7 @@ sounding words in the English language, so any replacement has to be worse (in t
 
 Here's a list of possibly good sounding replacements:
 - blocklist
+- blockerlist
 - dodgelist
 
 Here's a list of replacements I don't like for some reason:
@@ -71,6 +72,9 @@ Here's a list of replacements I don't like for some reason:
 
 Blocklist is very close to blacklist, and also has the meaning of to block something in it, so this seems like a good fit, however
 I don't quite like it too much, because it doesn't make a very appealing pair with greenlist for an inexplicable reason.
+The biggest problem with the term blocklist is though, that it has some ambiquity. Do you mean a list that blocks things, or do you
+mean a list of blocks? Blockchain has become a popular term, that refers to blocks, not to blocking. This is way I added blockerlist
+to my replacement proposals, as that makes clearly sense to me. Unfortunately the word is longer, which is something I wanted to prevent.
 
 To dodge means to make a movement to avoid something. This is an apt description of what such a list helps to accomplish,
 and I think it has a better sound to it than redlist. Rings better to my ears than blocklist as well.
