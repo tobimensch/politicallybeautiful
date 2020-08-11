@@ -1,9 +1,9 @@
 DISCLAIMER:
-If you don't agree with the reasons for switching out technical terms that I laid out here,
-I'm not judging your decisions and I would prefer if politics played no role in programming in the first place.
-My point is that in a climate where language has to get preemptively sensitive for whatever reason,
-it'd be better to coin words that have a well rounded sound that befits the English language,
-instead of choosing words merely for their technical and logical soundness.
+> If you don't agree with the reasons for switching out technical terms that I laid out here,
+> I'm not judging your decisions and I would prefer if politics played no role in programming in the first place.
+> My point is that in a climate where language has to get preemptively sensitive for whatever reason,
+> it'd be better to coin words that have a well rounded sound that befits the English language,
+> instead of choosing words merely for their technical and logical soundness.
 
 ## Debate in the Linux community (and worldwide)
 On July 11th new guidelines for a more inclusive language were merged into Linus Torvald's kernel tree.
@@ -23,15 +23,15 @@ about the debate that is surrounding them, and hence I'll indirectly be forced t
 
 ## My conclusions
 Yet, as I followed the discussion surrounding the possible offense that could be taken by the words whitelist and blacklist,
-two things became clear to me:
+three things became clear to me:
 
 1) If people are offended by a term, and there's an equally good alternative term, then it will just be a distraction from the quality of my code and projects, when I keep using the term that is considered offensive to some, even if I meant no harm by using it.
 2) When I don't take part in the formulation of alternative terms, others will decide them for me.
-3) Some of the suggested alternatives up to this point have an inferior ring to them compared to the words they are replacing.
+3) Some of the suggested alternatives up to this point have an unappealing ring to them compared to the words they are replacing.
 
 Number 3) is driving me to create this repository and to make my own suggestions for better replacements for words that have fallen out of favor.
 
-I'm accepting pull requests for more suggestions, this repository isn't just for my personal thoughts on this matter.
+I'm accepting pull requests for more suggestions, this repository isn't just for my personal thoughts on the matter.
 
 To me black is one of the coolest sounding words in the English language, and white is also a better sounding than your average word,
 and I strongly believe that the beauty of sounds factors strongly into the development of human language, slang and technical terms,
@@ -48,7 +48,8 @@ was formerly described as horrific henceforth gets described as double plus ungo
 So in this repository I want to collect and rate alternatives for those words that are falling out of favor.
 
 ## My proposals
-Starting with the terms whitelist/blacklist:
+
+### Starting with the terms whitelist/blacklist:
 
 Some of the first suggestions I came across were allowlist/denylist, perfect examples for words that make technical sense,
 yet they're less than beautiful linguistically. Can you imagine a word like allowlist or denylist in musical lyrics?
@@ -56,7 +57,7 @@ Or in daily natural conversations?
 "We put that on the denylist." That sentence can certainly be understood, but denylist feels like the constructed unnatural word that it is!
 
 Replace whitelist with greenlist. There's the expression to greenlight something/somebody, which means to allow somebody
-or something to go forward. So the word greenlist is in line with existing English phrases and green is also universally used as a color indicating that things are going well.
+or something to move forward. So the word greenlist is in line with existing English phrases and green is universally used as a color indicating that things are going well.
 
 It was more difficult to find a good sounding replacement for blacklist, not in the least because black is one of the coolest
 sounding words in the English language, so any replacement has to be worse (in the sense that it sounds neutered) almost by definition.
@@ -75,3 +76,50 @@ To dodge means to make a movement to avoid something. This is an apt description
 and I think it has a better sound to it than redlist. Rings better to my ears than blocklist as well.
 Though both are better than denylist or rejectlist that were floating around as possible replacements.
 
+### Master/slave replacement words:
+
+First, let me rant about the word master for a second. Some advocates against this word are making it appear, as if the word necessarily has to have evil connotations, in every context. Which is very obviously not true, the word is most often used as a title for a person that has gained mastership of a craft or even himself. Even the meaning, where somebody is the master over somebody else, doesn't have to be in connection to slaves or slavery. For example the teacher is the master for and of his students. To master something means to reach a high degree of skill in a difficult endeavor. It's also used as compliment for people that are impressive. So to strike the word master from the English language, means to weaken the ways in which one can express oneself.
+
+It's a different issue, when master and slave are used alongside each other, where the meaning changes to *master of slaves*. Here I can understand, that some people deem it an unfortunate choice of words.
+
+Here are my suggestions for master and slave replacements:
+ - master/worker
+ - leader/worker
+ - director/worker
+ - boss/worker
+ - head/worker
+ - root/worker
+
+Personally, I think that master/worker is a good replacements, as both words make sense in some technological contexts, and they don't sound like neutered language. I think the word worker is actually a more descriptive and better term, than what it is replacing.
+
+If master really needs to be replaced, I think in the workgiver:worktaker context, leader and boss sound nice, but I can also see director, head and root making sense. For example, the root as the origin from where worker (ie. threads) are started.
+
+There're other contexts where the word master isn't **at all** in relationship to something questionable, ie. in the master/branch context. It was difficult for me to understand, while following the debate, how some people might get offended by a branch being called the master branch. This is what was done in git from the beginning, and now GitHub is going to change the name from master to main. Some claim that main is better than master anyway. But that depends, if you really use the master branch as your main branch or not. Because you don't have to. It simply the first branch that gets created by the software, and all other branches follow it.
+
+Obviously branches are on trees, and therefore I think it would have made sense for the root branch, to be called root from the beginning.
+
+If I have enough time, I'll maybe change the name master branch to root branch. Because that makes sense as a replacement, but main also sometimes can make sense. You might argue that master is the cooler sounding word, just from the sound of it.
+
+My suggested replacements for master in the branch context:
+ - root
+ - main
+ - leader
+ - lead
+
+I'll probably choose root, if I make this change. It sounds relatively cool, and describes the context aptly.
+
+There's one more context of the master/slave terminology, where master stands in relationship to a follower, that usually copies the master.
+
+Here I think these replacements are good:
+ - master/follower
+ - leader/follower
+ - master/clone
+ - leader/clone
+ - primary/secondary
+ - source/clone
+
+Some want to use primary and replica, which I understand, but I think if you use primary you should also go with secondary. Just like B follows A. Secondary things follow primary things, so it seems logical to me, and is a nicer pair of words.
+
+I think source/clone also makes a lot of sense. There are actually quite a few good replacements here.
+
+To those who think that the word master shouldn't be used in any context, and that master/follower from my list is a bad idea, I want to admit **that I might be wrong by defending possibly harmless usecases of the word**. I **apologize**, and hope that you understand, that I'm discussing the issue in this document, without claiming to know best or to be right. It's definitely possible that I'm underestimating the power of the word master by itself, and that those who say it should essentially be banned from most or all language, are in the right. It's just hard for me to see, how a master and follower relationship (like the Buddha and his followers, or a carpenter and his students) should offend anyone. So, again, I'm **apologizing**, it's possible that I'm less enlightened than you, or whoever may be offended.
